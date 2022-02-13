@@ -11,12 +11,9 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [Resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,18 +28,10 @@ Users should be able to:
 
 ![](./preview.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-css-grid-flexbox-some-utility-classes-IBeNAQB1x)
+- Live Site URL: [Add live site URL here](https://hackmort-meet-landing.netlify.app/)
 
 ### Built with
 
@@ -57,3 +46,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### What I learned
 
 Just wanted to try a little design system using regular and utility classes.
+
+### Resources
+
+[MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) MDN
+
+### Author
+
+[Me](https://github.com/HackMort) HackMort
