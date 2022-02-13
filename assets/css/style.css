@@ -36,7 +36,6 @@ body {
   color: hsl( var(--clr-gray) );
   background-color: hsl( var(--clr-white) );
   line-height: 1.625rem; /* 26px */
-  min-height: 100vh;
   display: grid;
   grid-template-rows: min-content 1fr;
   overflow-x: hidden;
