@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-css-grid-flexbox-some-utility-classes-IBeNAQB1x)
-- Live Site URL: [Add live site URL here](https://hackmort-meet-landing.netlify.app/)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/responsive-landing-page-css-grid-flexbox-some-utility-classes-IBeNAQB1x)
+- Live Site URL: [Click Here](https://hackmort-meet-landing.netlify.app/)
 
 ### Built with
 
